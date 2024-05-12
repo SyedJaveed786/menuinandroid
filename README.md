@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 ```
@@ -91,10 +91,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![239758865-e5634791-56b4-4011-b3e9-9bb772e79872](https://github.com/yuvaraj-csk/menuinandroid/assets/134052574/8c0860c3-a445-4425-8e88-f55abc16b210)
 
-![image](https://github.com/SyedJaveed786/menuinandroid/assets/106874713/4b8b97df-18dd-4647-b8db-c8f61657024d)
-![image](https://github.com/SyedJaveed786/menuinandroid/assets/106874713/1524ac8c-d894-4f33-9db1-633bd6288cf9)
-![image](https://github.com/SyedJaveed786/menuinandroid/assets/106874713/9e375e2f-9e86-4d82-bdd8-46d5b38dd21a)
+![239759041-6b5239b8-2b62-4d17-9949-4658bfa88d68](https://github.com/yuvaraj-csk/menuinandroid/assets/134052574/14f09fc4-2739-4bb6-b91a-c8b52ee160fb)
+![239758928-a7b34f8e-93f9-4685-9960-383ad17c271e](https://github.com/yuvaraj-csk/menuinandroid/assets/134052574/1bd69a8d-f847-4d90-866d-9f20782fbfcc)
 
 
 ## RESULT
